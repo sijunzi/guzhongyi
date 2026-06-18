@@ -1,7 +1,14 @@
 baseURL = 'https://guzhongyi.pages.dev/'
 locale = 'zh-cn'
 title = '古中医'
+timeZone = "Asia/Shanghai"
+
+
+# 主题
 theme = "PaperMod"
+
+# 直接生成一级目录
+uglyURLs = true
 
 [menu] # Menu management
 	[[menu.main]]
@@ -10,5 +17,10 @@ theme = "PaperMod"
 		weight = 10
 	[[menu.main]]
 		name = '关于我们'
-		pageRef = '/posts/关于我们/'
+		pageRef = '/posts/about.html'
 		weight = 15
+
+[params]
+	DateFormat = "2006-01-02 15:04:05"
+	showTOC = true
+	

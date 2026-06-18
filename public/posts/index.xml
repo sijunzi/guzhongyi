@@ -2,10 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 古中医</title>
-    <link>https://guzhongyi.pages.dev/posts/</link>
+    <link>https://guzhongyi.pages.dev/posts/index.html</link>
     <description>Recent content in Posts on 古中医</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Thu, 18 Jun 2026 19:12:50 +0800</lastBuildDate>
     <atom:link href="https://guzhongyi.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>何首乌1</title>
+      <link>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C1.html</link>
+      <pubDate>Thu, 18 Jun 2026 19:12:50 +0800</pubDate>
+      <guid>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C1.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>何首乌</title>
+      <link>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C.html</link>
+      <pubDate>Thu, 18 Jun 2026 19:04:33 +0800</pubDate>
+      <guid>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>健忘门</title>
+      <link>https://guzhongyi.pages.dev/posts/jian-wang.html</link>
+      <pubDate>Thu, 18 Jun 2026 12:16:47 +0800</pubDate>
+      <guid>https://guzhongyi.pages.dev/posts/jian-wang.html</guid>
+      <description>&lt;h1 id=&#34;健忘门&#34;&gt;健忘门&lt;/h1&gt;
+&lt;p&gt;正在编写&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于我们</title>
+      <link>https://guzhongyi.pages.dev/posts/about.html</link>
+      <pubDate>Thu, 18 Jun 2026 12:16:47 +0800</pubDate>
+      <guid>https://guzhongyi.pages.dev/posts/about.html</guid>
+      <description>&lt;p&gt;关于我们&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -2,12 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guzhongyi.pages.dev/categories/</loc>
+    <loc>https://guzhongyi.pages.dev/posts/index.html</loc>
+    <lastmod>2026-06-18T19:12:50+08:00</lastmod>
   </url><url>
-    <loc>https://guzhongyi.pages.dev/posts/</loc>
+    <loc>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C1.html</loc>
+    <lastmod>2026-06-18T19:12:50+08:00</lastmod>
   </url><url>
-    <loc>https://guzhongyi.pages.dev/tags/</loc>
+    <loc>https://guzhongyi.pages.dev/index.html</loc>
+    <lastmod>2026-06-18T19:12:50+08:00</lastmod>
   </url><url>
-    <loc>https://guzhongyi.pages.dev/</loc>
+    <loc>https://guzhongyi.pages.dev/posts/%E4%BD%95%E9%A6%96%E4%B9%8C.html</loc>
+    <lastmod>2026-06-18T19:04:33+08:00</lastmod>
+  </url><url>
+    <loc>https://guzhongyi.pages.dev/posts/jian-wang.html</loc>
+    <lastmod>2026-06-18T12:16:47+08:00</lastmod>
+  </url><url>
+    <loc>https://guzhongyi.pages.dev/posts/about.html</loc>
+    <lastmod>2026-06-18T12:16:47+08:00</lastmod>
+  </url><url>
+    <loc>https://guzhongyi.pages.dev/categories/index.html</loc>
+  </url><url>
+    <loc>https://guzhongyi.pages.dev/tags/index.html</loc>
   </url>
 </urlset>
