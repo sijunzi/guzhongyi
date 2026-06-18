@@ -1,0 +1,14 @@
+baseURL = 'https://guzhongyi.pages.dev/'
+locale = 'zh-cn'
+title = '古中医'
+theme = "PaperMod"
+
+[menu] # Menu management
+	[[menu.main]]
+		name = '首页'
+		pageRef = '/'
+		weight = 10
+	[[menu.main]]
+		name = '关于我们'
+		pageRef = '/posts/关于我们/'
+		weight = 15
